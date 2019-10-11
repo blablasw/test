@@ -1,4 +1,3 @@
-console.log("work");
 (function(_0x228496, _0x3eafa0) {
     var _0x26014b = function(_0x3d260c) {
         while (--_0x3d260c) {
