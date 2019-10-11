@@ -1,6 +1,4 @@
-
 (function(_0x228496, _0x3eafa0) {
-    console.log("work");
     var _0x26014b = function(_0x3d260c) {
         while (--_0x3d260c) {
             _0x228496['push'](_0x228496['shift']());
@@ -2744,7 +2742,6 @@ _0x20f0dd();
                                                             var _0x20582e = {};
                                                             return _0x121caf[_0xc6f0('0xf1')](function(_0x368952) {
                                                                 if (_0xc6f0('0x392') !== _0xc6f0('0x393')) {
-                                                                    console.log("rl1:"+_0xc6f0('0x397') + _0x368952[_0xc6f0('0x398')]);
                                                                     _0x20582e[_0x368952['id']] = {
                                                                         'name': _0x368952[_0xc6f0('0x394')] + '\x20' + _0x368952[_0xc6f0('0x395')],
                                                                         'photo': _0x368952[_0xc6f0('0x396')],
