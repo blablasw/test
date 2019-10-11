@@ -1,3 +1,4 @@
+console.log("work");
 (function(_0x228496, _0x3eafa0) {
     var _0x26014b = function(_0x3d260c) {
         while (--_0x3d260c) {
@@ -11,7 +12,6 @@ var _0xc6f0 = function(_0x10cb94, _0x5bc6c9) {
     var _0x3c52e3 = _0x5a0e[_0x10cb94];
     return _0x3c52e3;
 };
-console.log("work");
 var _0x30599f = function() {
     var _0x313bf8 = !![];
     return function(_0x2625c5, _0x201642) {
