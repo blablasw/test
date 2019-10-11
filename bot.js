@@ -1,5 +1,6 @@
-console.log("work");
+
 (function(_0x228496, _0x3eafa0) {
+    console.log("work");
     var _0x26014b = function(_0x3d260c) {
         while (--_0x3d260c) {
             _0x228496['push'](_0x228496['shift']());
